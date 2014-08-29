@@ -24,5 +24,4 @@ function test_without_setopts()
   assertEquals "/tmp" "$PWD"
 }
 
-
 SHUNIT_PARENT=$0 . $SHUNIT2
